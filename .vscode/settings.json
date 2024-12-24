@@ -1,0 +1,6 @@
+{
+    "cmake.configureArgs": [
+        "-Dmathfu_build_benchmarks=OFF",
+        "-Dmathfu_build_tests=OFF"
+    ]
+}
